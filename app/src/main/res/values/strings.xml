@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">idade</string>
+    <string name="etAno">Insira o ano de nascimento</string>
+    <string name="etMes">Insira o mes de nascimento</string>
+    <string name="etDia">Insira o dia de nascimento</string>
+    <string name="btnCalc">Calcular</string>
+</resources>
